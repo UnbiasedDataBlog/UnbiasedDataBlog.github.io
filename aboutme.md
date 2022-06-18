@@ -10,4 +10,4 @@ Ben earned a Bachelor's degree in Physics and Economics, and a Master's degree i
 
 # Rafael Charris
 
-Rafael needs to write some information here soon.
+Rafael earned a Bachelor's degree in philosophy, a Master's in Psychology from La Universidad de Los Andes in Bogotá, Colombia, and a Master's in Behavioral and Computational Economics from Chapman University. His main interests are good research practices and applied statistics in the field of development economics, particularly concerning poverty alleviation. He contributes to the blog to share some reflections on interesting papers, statistics, and social science research.
